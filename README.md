@@ -110,6 +110,13 @@ and Python-based AI/Data Applications.
   <img src="https://img.shields.io/badge/Google%20Career%20Certificates-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+
+### Local Compute & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Intel_Core_i7_14650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_RTX_4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lenovo_Legion_5i_Pro-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
+</p>
 ---
 
 ## 🏆 Highlights
